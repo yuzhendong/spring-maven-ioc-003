@@ -19,5 +19,6 @@ public class testPet {
 		petService.saveObject();
 		petService.updateObject();
 		System.out.println(petService.getClass().getName());
+		System.out.println("YUZHENDONGNIHAO");
 	}
 }
